@@ -24,3 +24,49 @@ Respond to user interactions.
 - Ensure semantic correctness.
 
 Happy Coding! 💻✨
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Web Page</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; }
+        header, footer { background: #f4f4f4; padding: 10px; text-align: center; }
+        main { padding: 20px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Web Page</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        <section id="about">
+            <h2>About Me</h2>
+            <p>This is a brief description about me and my interests.</p>
+        </section>
+        
+        <section id="services">
+            <h2>Services</h2>
+            <p>Here are some of the services I offer.</p>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2025 My Web Page. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+
